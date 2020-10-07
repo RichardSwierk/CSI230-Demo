@@ -3,3 +3,4 @@ echo -e "Please enter your name: "
 read name
 clear
 echo "Nice to meet you $name"
+echo "Good bye $name"
